@@ -13,7 +13,7 @@ jobs:
     env:
       IMAGE_NAME: nom_iame_docker2
       IMAGE_TAG: 1.0.0
-      DOCKER_HUB_REGISTRY: docker.io/maidara400
+      DOCKER_HUB_REGISTRY: maidara400
 
     steps:
       - name: Récupération du code
